@@ -1,0 +1,70 @@
+.sneaker{
+    display:inline-flex;
+}
+.grey{
+    margin-left: 20%;
+    margin-top: 7%;
+}
+.pink{
+    margin-top: 7%;
+    margin-left: 10%;
+}
+.white{
+    margin-left: -9%;
+    margin-top: 7%;
+}
+.flats{
+    display: flex;
+}
+flats.h1{
+    margin-left: 6%;
+}
+.bg{
+    margin-left: -4%;
+    margin-top: 7%;
+
+}
+.black{
+    margin-left: 10%;
+    margin-top: 7%;
+
+}
+.cream{
+    margin-left: 30%;
+    margin-top: 7%;
+}
+.open{
+    display: flex;
+
+}
+.yellow{
+    margin-left: -4%;
+    margin-top: 9%;
+
+}
+.colourless{
+    margin-left: 10%;
+    margin-top: 5%;
+
+}
+.green{
+  margin-left: 30%;
+  margin-top: 7%;  
+}
+.boots{
+    display: flex;
+}
+.pinkie{
+    margin-left: -4%;
+    margin-top: 9%;
+
+}
+.metal{
+    margin-left: 10%;
+    margin-top: 5%;
+
+}
+.booty{
+    margin-left: 15%;
+    margin-top: 7%;
+}

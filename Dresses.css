@@ -1,0 +1,53 @@
+.body{
+    overflow: hidden;
+}
+.images{
+    display: inline-flex;
+}
+.yellow{
+    margin-top: 10%;
+    margin-right: 20%;
+}
+.blue{
+    margin-top: 10%;
+    margin-left: -20%;
+
+}
+.rg{
+    margin-top: 10%;
+    margin-left:5% ;
+}
+.short{
+    display: inline-flex;
+}
+.dr{
+    margin-left: -1%;
+    margin-top: 10%;
+
+}
+.blue{
+     margin-left: 2%;
+}
+.red{
+    margin-left: 1%;
+    margin-top: 10%;
+}
+.romper{
+    display: inline-flex;
+
+}
+.grey{
+    margin-top: 10%;
+    margin-left: -3%;
+
+}
+.blew{
+    margin-top: 10%;
+    margin-right: 6%;
+
+}
+.bg{
+    margin-top: 10%;
+    margin-right: 2%;
+
+}

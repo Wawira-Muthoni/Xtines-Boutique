@@ -1,0 +1,23 @@
+body{
+    background-color: #fecfa1;
+}
+.bossy{
+     display: flex;
+    
+}
+.nav{
+    box-sizing: border-box;
+    text-align: right;
+    margin-top: 5%;
+    margin-right: 5%;
+}
+nav ul{
+    list-style: none;
+    padding: 2%;
+}
+nav li{
+    font-size: 150%;
+    display: inline-flex;
+    padding: 1%;
+    margin-left: 150%;
+}

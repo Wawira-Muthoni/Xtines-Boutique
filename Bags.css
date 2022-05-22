@@ -1,0 +1,44 @@
+.bags{
+    display: flex;
+}
+.stripe{
+     margin-top: 10%;
+     margin-left:-3%;
+}
+.pinkwhite{
+    margin-top: 10%;
+    margin-left: 1%;
+}
+.blackie{
+    margin-top: 10%;
+}
+.handbags{
+    display: flex;
+}
+.leathy{
+    margin-top: 19%;
+    margin-left: -4%;
+}
+.croco{
+    margin-top: 10%;
+    margin-left: 5%;
+}
+.browny{
+    margin-top: 15%;
+    margin-left: 18%;
+}
+.monkey{
+    display: flex;
+}
+.green{
+    margin-left: 22%;
+    margin-top: 12%;
+}
+.blackm{
+    margin-left: 19%;
+    margin-top: 12%;
+}
+.white{
+    margin-top: 12%;
+    margin-left: -5%;
+}
